@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white
 
 <!--
 **thalesrafael/thalesrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
