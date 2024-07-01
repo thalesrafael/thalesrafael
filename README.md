@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Skills
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%33FFFC )
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 
 
 <!--
