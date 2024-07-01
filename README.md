@@ -1,5 +1,8 @@
 ## Hi there 👋
-https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white
+### Skills
+
+<a href="[https://www.typescriptlang.org/](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+</p>
 
 <!--
 **thalesrafael/thalesrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
