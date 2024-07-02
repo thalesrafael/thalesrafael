@@ -11,7 +11,7 @@
 
 👨🏻‍💻Sou um desenvolvedor Full Stack
 
-🎨Atualmente com uma prefêrencia na área de Design UI/UX e Front-End
+🎨Atualmente com uma prefêrencia na área de UI/UX Design e Front-End
 
 🌱Em busca de novos desafios
 
