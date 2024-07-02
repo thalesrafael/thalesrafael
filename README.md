@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_TTZmo2mXYr4eRqobC4Ntg.jpeg"/>
+</div>
+
 # <div id="header" align="center"> Seja bem vindo caro(a) programador(a)!
 
 </div>
