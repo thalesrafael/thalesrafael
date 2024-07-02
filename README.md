@@ -51,7 +51,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ## Estatísticas do Repositório:
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesrafael&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesrafael&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
