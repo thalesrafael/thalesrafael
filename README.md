@@ -6,6 +6,15 @@
 
 </div>
 
+## Sobre Mim
+✌️Olá! Meu nome é Thales, sou um desenvolvedor Full Stack, com uma preferência na área de Design UI/UX e Front-End, em transformar designs em código funcional, garantindo a qualidade e a usabilidade dos projetos, com interfaces intuitivas e responsivas.
+Meus hobbies são:
+✈️Conhecer novos lugares
+📷Fotografia
+🏋🏻‍♂️Academia
+🎮Jogar
+🍿Maratonar filmes e séries
+🍻Um happy com amigos aos fins de semana
 
 ### Minhas Redes Sociais:
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thales_ronquigale@hotmail.com)
@@ -31,8 +40,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+## Estatísticas do Repositório:
 <div>
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesrafael&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesrafael&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
