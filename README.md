@@ -1,6 +1,6 @@
 ## Hellow World!
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJibjFsOW9kamlsbmcyZmE5N2s2NWZ0ZXI1ZXdudWJka3E4ZHl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fh9pLZJAKkW8zXZuuP/giphy.gif"/>
 </div>
 
 ### Minhas redes:
