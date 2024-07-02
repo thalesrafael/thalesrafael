@@ -1,6 +1,7 @@
-# <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJibjFsOW9kamlsbmcyZmE5N2s2NWZ0ZXI1ZXdudWJka3E4ZHl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fh9pLZJAKkW8zXZuuP/giphy.gif" width:="100"/>
+# <div id="header" align="center"> Seja bem vindo caro(a) programador(a)!
+
 </div>
+
 
 ### Minhas redes:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalesmarinho/)
