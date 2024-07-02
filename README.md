@@ -6,15 +6,23 @@
 
 </div>
 
-## Sobre Mim
-✌️Olá! Meu nome é Thales, sou um desenvolvedor Full Stack, com uma preferência na área de Design UI/UX e Front-End, em transformar designs em código funcional, garantindo a qualidade e a usabilidade dos projetos, com interfaces intuitivas e responsivas.
-Meus hobbies são:
-✈️Conhecer novos lugares
-📷Fotografia
-🏋🏻‍♂️Academia
-🎮Jogar
-🍿Maratonar filmes e séries
-🍻Um happy com amigos aos fins de semana
+## Sobre Mim:
+✌️Olá! Meu nome é Thales,
+
+👨🏻‍💻Sou um desenvolvedor Full Stack
+
+🎨Atualmente com uma prefêrencia na área de Design UI/UX e Front-End
+
+🌱Em busca de novos desafios
+
+📚Em constante aprendizado
+
+⚡Meus hobbies são:
+- ✈️Conhecer novos lugares
+- 📷Fotografia
+- 🏋🏻‍♂️Academia
+- 🎮Jogar
+- 🍿Maratonar filmes e séries
 
 ### Minhas Redes Sociais:
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thales_ronquigale@hotmail.com)
