@@ -9,9 +9,9 @@
 ## Sobre Mim:
 ✌️Olá! Meu nome é Thales,
 
-👨🏻‍💻Sou um desenvolvedor Full Stack
+👨🏻‍💻Sou um desenvolvedor Full Stack,
 
-🎨Atualmente com uma prefêrencia na área de UI/UX Design e Front-End
+🎨Atualmente com uma prefêrencia na área de UI/UX Design, Front-End, Analise de Dados e BI, desenvolvendo relatórios, dashboards e paginas interativas,
 
 🌱Em busca de novos desafios
 
