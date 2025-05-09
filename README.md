@@ -11,6 +11,12 @@
 
 👨🏻‍💻Sou um desenvolvedor Full Stack
 
+🥇🥈🥉 Premiado em todas as colocações em Ciências Exatas e da Terra
+
+🏅 Menções Honrosas pelo Comando Militar do Oeste do Exército Brasileiro
+
+🏆 Credenciado para Feira Internacional
+
 🎨Atualmente com uma prefêrencia na área de Analise de Requisitos, UI/UX Design, Front-End, Analise de Dados e BI, desenvolvendo relatórios, dashboards e paginas interativas
 
 🌱Em busca de novos desafios
